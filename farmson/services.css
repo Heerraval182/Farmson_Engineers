@@ -1,0 +1,360 @@
+.s
+{
+    background-color: rgb(248, 246, 243);
+}
+.info
+{
+    padding-left: 50px;
+    display: flex;
+    gap: 40px;
+    height: 30PX;
+    font-size: large;
+    padding-right: 200PX;
+    justify-content: right;
+    color: white;
+    background-color: rgb(38, 107, 130);
+}
+.navabar {
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    margin: 10PX;
+}
+
+.navabar a:hover{
+    text-decoration: underline !important;
+    color: orange;
+}
+
+.navabar ul {
+    display: flex;
+    list-style: none;
+    padding-right: 50px;
+    justify-content: space-between;
+    gap: 30PX;
+    text-decoration: none;
+}
+
+.navabar a {
+
+    text-transform: capitalize;
+    font-size: 18px;
+
+}
+
+z
+.navabar button {
+    background-color: rgb(38, 107, 130);
+    color: white;
+    font-size: 15PX;
+}
+
+.navabar button:hover {
+    background-color: yellow;
+    color: white;
+}
+.Img
+{
+    background-image: url(images/burnished-hard-chrome-plated-rod-500x500.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400PX;
+}
+.Img h2
+{
+    text-align: center;
+    color: white;
+    padding-top: 150PX;
+    font-size: 40PX;
+}
+.line1
+{
+    display: flex;
+    gap: 10PX;
+   justify-content: center;
+   margin-top: 30PX;
+   font-size: larger;
+}
+.line2
+{
+    display: flex;
+    gap: 10PX;
+    justify-content: center;
+   margin-top: 10PX;
+  padding-left: 25PX;
+    font-size: larger;
+}
+.Ourservice
+{
+    display: flex;
+    justify-content: left;
+    gap: 40PX;
+    background-color: rgb(240, 186, 78);
+    margin-left: 40PX;
+    padding: 30PX;
+    color: white;
+    font-size: larger;
+    height: 400PX;
+   width: 190PX;
+   text-align: center;
+}
+.Moc
+{
+    text-align: center;
+    margin-left: 40PX;
+    padding: 30PX;
+    height: 400PX;
+    width: 190PX;
+    background-color: white;
+}
+.Moc i
+{
+    height: 80PX;
+    width: 80PX;
+    
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    font-size: 40PX;
+}
+.Moc i:hover
+{
+    background-color: rgb(240, 186, 78);
+}
+.Moc p
+{
+    color: rgb(197, 196, 196);
+}
+.Ht
+{
+    text-align: center;
+    margin-left: 40PX;
+    padding: 30PX;
+    background-color: white;
+    height: 400PX;
+   width: 190PX;
+}
+.Ht i
+{
+    height: 80PX;
+    width: 80PX;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(240, 186, 78);
+    font-size: 40PX;
+}
+.Ht i:hover
+{
+    color: rgb(197, 196, 196);
+}
+.Ht p
+{
+    color: rgb(197, 196, 196);
+}
+.G
+{
+    text-align: center;
+    margin-left: 40PX;
+    padding: 30PX;
+    background-color: white;
+    height: 400PX;
+   width: 190PX;
+   
+}
+.G i
+{
+    height: 80PX;
+    width: 80PX;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    font-size: 40PX;
+}
+.G i:hover
+{
+    background-color: rgb(240, 186, 78);
+}
+.G p 
+{
+    color: rgb(197, 196, 196);
+}
+.M
+{
+    text-align: center;
+    margin-left: 8PX;
+    padding: 30PX;
+    background-color: white;
+    height: 400PX;
+    width: 190PX;
+    padding-left: 30;
+}
+.M i
+{
+    height: 80PX;
+    width: 80PX;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    font-size: 40PX;
+}
+.M i:hover
+{
+    background-color: rgb(240, 186, 78);
+}
+.M p 
+{
+    color: rgb(197, 196, 196);
+}
+.P
+{
+    text-align: center;
+    margin-left: 45PX;
+    padding: 30PX;
+    background-color: white;
+    height: 400PX;
+    width: 190PX;
+}
+.P i
+{
+    height: 80PX;
+    width: 80PX;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(240, 186, 78);
+    font-size: 40PX;
+}
+.P i:hover
+{
+    color: rgb(197, 196, 196);
+}
+.P p
+{
+    color: rgb(197, 196, 196);
+}
+.O
+{
+    text-align: center;
+    margin-left: 40PX;
+    padding: 30PX;
+    background-color: white;
+    height: 400PX;
+    width: 190PX;
+}
+.O i
+{
+    height: 80PX;
+    width: 80PX;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    font-size: 40PX;
+}
+.O i:hover
+{
+    background-color: rgb(240, 186, 78);
+}
+.O p 
+{
+    color: rgb(197, 196, 196);
+}
+.Git
+{
+    margin-left: 40PX;
+    padding: 30PX;
+    background-color: rgb(240, 186, 78);
+    color: white;
+    font-size: larger;
+    height: 400PX;
+    width: 190PX;
+    text-align: center;
+}
+.help {
+    font-size: xx-large;
+
+}
+
+.help input {
+    background-color: rgb(180, 180, 235);
+}
+
+.help textarea {
+    background-color: rgb(180, 180, 235);
+}
+
+.help div:hover {
+    background-color: yellow;
+    color: white;
+}
+.footer
+{
+background-color: rgb(214, 216, 227);
+display: flex;
+height: 350PX;
+}
+.footer img
+{
+    width : "200PX" ;
+    height : "50PX" ;
+    background-color: "rgb(214, 216, 227)";
+}
+.f1 img
+{
+   height: 50PX; 
+   width: 200PX;
+   
+}
+.link img
+{
+    height: 40PX;
+    width: 40PX;
+    border-radius: 50%
+}
+.f1 p
+{
+    display: flex;
+    gap: 10px;
+    justify-content: left;
+    font-size: large;
+    padding-left: 60PX;
+    line-height: 30PX;
+}
+.f1 a
+{
+    height: 10PX;
+    width: 20PX;
+    
+}
+.f2 
+{
+    padding-right: 50px;
+    display: flex;
+    gap: 10px;
+    font-size: large;
+   justify-content: center;
+    line-height: 30PX;
+}
+.f2 ul
+{
+   
+    list-style: none;
+    text-align: justify;
+}
+
+.f3
+{
+   text-align: center;
+   line-height: 30PX;
+}
+.f3 button
+{
+    background-color: rgb(38, 107, 130);
+    color: white;
+}
+.Footer
+{
+    display: flex;
+    gap: 520PX;
+    background-color: rgb(38, 107, 130);
+    margin-top: 0PX;
+    height: 60PX;
+}

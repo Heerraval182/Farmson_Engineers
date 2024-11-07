@@ -1,0 +1,221 @@
+.info {
+    padding-left: 50px;
+    display: flex;
+    gap: 40px;
+    height: 30PX;
+    font-size: large;
+    padding-right: 200PX;
+    justify-content: right;
+    color: white;
+    background-color: rgb(38, 107, 130);
+}
+
+.navabar {
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    margin: 10PX;
+}
+
+.navabar a:hover{
+    text-decoration: underline !important;
+    color: orange;
+}
+
+.navabar ul {
+    display: flex;
+    list-style: none;
+    padding-right: 50px;
+    justify-content: space-between;
+    gap: 30PX;
+    text-decoration: none;
+}
+
+.navabar a {
+
+    text-transform: capitalize;
+    font-size: 18px;
+
+}
+
+
+.navabar button {
+    background-color: rgb(38, 107, 130);
+    color: white;
+    font-size: 15PX;
+}
+
+.navabar button:hover {
+    background-color: yellow;
+    color: white;
+}
+
+.hard {
+    background-image: url(images/hardcrome-plated-640x486.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400PX;
+}
+
+.hard h1 {
+    color: white;
+    font-size: 40PX;
+    text-align: center;
+    padding-top: 180PX;
+}
+
+.detail ul {
+    list-style: none;
+    padding-top: 30PX;
+    padding-left: 30PX;
+    padding-bottom: 30PX;
+
+    font-size: 30PX;
+    line-height: 50PX;
+}
+
+.detail {
+    display: flex;
+}
+
+.Detail {
+
+
+    padding-left: 20PX;
+}
+
+.Detail ::marker {
+    content: '=>';
+
+}
+
+.Detail img {
+    text-align: left;
+    display: flex;
+    size: 30%;
+    padding-left: 30PX;
+    padding-top: 63PX;
+}
+.Ghelp
+{
+    margin-left: 30PX;
+}
+.Ghelp {
+    text-align: left;
+    size: 70%;
+    border-color: blue;
+    margin-top: 60PX;
+   
+}
+
+.Ghelp p {
+    color: rgb(187, 186, 186);
+    font-size: 20PX;
+
+}
+
+.Ghelp ul {
+    color: rgb(187, 186, 186);
+    font-size: 20PX;
+}
+
+.Gimg {
+    border-spacing: 0%;
+}
+
+.Gfp {
+    background-color: yellow;
+    height: 200PX;
+    width: 300PX;
+    padding-top: 0%;
+}
+
+.help {
+    font-size: xx-large;
+
+}
+
+.help input {
+    background-color: rgb(180, 180, 235);
+}
+
+.help textarea {
+    background-color: rgb(180, 180, 235);
+}
+
+.help div:hover {
+    background-color: yellow;
+    color: white;
+}
+
+.footer {
+    background-color: rgb(214, 216, 227);
+    display: flex;
+    height: 350PX;
+}
+
+.footer img {
+    width: "200PX";
+    height: "50PX";
+    background-color: rgb(214, 216, 227);
+}
+
+.f1 img {
+    height: 50PX;
+    width: 200PX;
+
+}
+
+.link img {
+    height: 40PX;
+    width: 40PX;
+    border-radius: 50%
+}
+
+.f1 p {
+    display: flex;
+    gap: 10px;
+    justify-content: left;
+    font-size: large;
+    padding-left: 60PX;
+    line-height: 30PX;
+}
+
+.f1 a {
+    height: 10PX;
+    width: 20PX;
+
+}
+
+.f2 {
+    padding-right: 50px;
+    display: flex;
+    gap: 10px;
+    font-size: large;
+    justify-content: center;
+    line-height: 30PX;
+}
+
+.f2 ul {
+
+    list-style: none;
+    text-align: justify;
+}
+
+.f3 {
+    text-align: center;
+    line-height: 30PX;
+}
+
+.f3 button {
+    background-color: rgb(38, 107, 130);
+    color: white;
+}
+
+.Footer {
+    display: flex;
+    gap: 520PX;
+    background-color: rgb(38, 107, 130);
+    margin-top: 0PX;
+    height: 60PX;
+}
